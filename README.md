@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - I wanted a quick and easy way to access my notes aswell as learn some basic coding skills.
 - I have able to explore the basics of HTML, CSS, and JavaScript
 
